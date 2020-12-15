@@ -14,7 +14,7 @@ For environments created using the API service model, the details page lists the
 
 ### Environment Information
 
-The Environment Information section contains the environment's icon, title, logical name, description and any tags or attributes that are specific to the environment asset. Attributes in this context are key and value pairs used for extending functionality and integrations with third party systems.
+The environment information section contains the environment's icon, title, logical name, description and any tags or attributes that are specific to the environment asset. Attributes in this context are key and value pairs used for extending functionality and integrations with third party systems.
 
 The date and time that the environment asset was created is listed in this section.
 

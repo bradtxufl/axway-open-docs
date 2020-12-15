@@ -8,7 +8,14 @@ description: All of your environments displayed in one place.
 
 {{< alert title="Public beta" color="warning" >}}This feature is currently in **public beta** and not yet available for production use.{{< /alert >}}
 
-The environments page contains all of your environments in a searchable and sortable list. An environment is a logical container for grouping APIs and additional assets. the Axway Cloud SAAS environment is represented here as well as environments managed with a service mesh or API service model. API service model results might be an AWS Gateway or API Manager environment connected with discovery and traceability agents, or they might be environments that are defined manually.
+The environments page contains all of your environments in a searchable and sortable list. An environment is a logical container for grouping APIs and additional assets. This list contains:
+
+* the Axway Cloud SaaS environment
+* Environments using a service mesh gateway
+* Environments using the API service model
+    * AWS Gateway environments
+    * API Manager environments
+    * Environments that have been defined manually using the AMPLIFY Central CLI or APIs
 
 You can add a new environment from this page by selecting the **+ Environment** button and customizing it with your environment's information.
 
@@ -18,7 +25,7 @@ You can add a new environment from this page by selecting the **+ Environment** 
 
 This page can be sorted by an environment's logical name, title, or by the time that they were created or last modified. Some environments contain both a logical name and a more customizable title which are both displayed on this page.
 
-You can also search the environments by their logical name, title, or any tags that are attached to it.
+You can search the environments by their logical name, title, or any tags that are attached to it.
 
 ### Anatomy of the results
 
