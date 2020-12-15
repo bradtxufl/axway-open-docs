@@ -14,13 +14,13 @@ You can add a new environment from this page by selecting the "+ Environment" bu
 
 ![Environment List Page](/Images/central/env_and_gateway_mgmt/EnvironmentListPage.png)
 
-## Interacting with the list
+### Interacting with the list
 
 This page can be sorted by an environment's logical name, title, or by the time that they were created or last modified. Some environments contain both a logical name and a more customizable title which are both displayed on this page.
 
 You can also search the environments by their logical name, title, or any tags that are attached to it.
 
-## Anatomy of the results
+### Anatomy of the results
 
 Each environment in the list contains some basic information about the environment for quick viewing.
 
