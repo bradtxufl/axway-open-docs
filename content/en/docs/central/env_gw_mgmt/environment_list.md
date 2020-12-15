@@ -35,13 +35,15 @@ Each environment in the list contains some basic information about the environme
 
 Each entry contains:
 
-|||
-|---|---|
-|1. Title |2. Logical name |
-|3. An icon |4. The connection status of agents within the environment (This status will display MANUAL SYNC if an API Service is not connected using an AWS Gateway or API Manager discovery and traceability agent) |
-|5. Description |6. Tags |
-|7. The number of service assets housed in the environment |8. An indication of which user last modified the environment and when |
-|9. An option to delete the environment |
+1. Title
+2. Logical name
+3. An icon
+4. The connection status of agents within the environment (This status will display MANUAL SYNC if an API Service is not connected using an AWS Gateway or API Manager discovery and traceability agent)
+5. Description
+6. Tags
+7. The number of service assets housed in the environment
+8. An indication of which user last modified the environment and when
+9. An option to delete the environment
 
 You can select the title or logical name of the environment to view additional details.
 
@@ -57,7 +59,7 @@ The environment information section contains general information and any tags or
 
 ### Activity Report
 
-The values in the Activity Report section represent a holistic view of metrics within the environment. Here you can view aggregated values for how your environment assets are distributed and how many subscriptions exist across all of those assets.
+The values in the Activity Report section represent a holistic view of metrics within the environment.  Here you can view aggregated values for how your environment assets are distributed and how many subscriptions exist across all of those assets.
 
 * Services: The total count of services represented in the environment
 * Catalog Items: The total count of published catalog items
