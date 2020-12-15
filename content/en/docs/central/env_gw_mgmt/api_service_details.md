@@ -1,14 +1,12 @@
 ---
-title: Viewing the details of an API service
-linkTitle: Viewing the details of an API service
+title: View the details of an API service
+linkTitle: View the details of an API service
 weight: 30
 date: 2020-12-14
-description: Understanding the details of your API service
+description: Understand the details of your API service
 ---
 
 {{< alert title="Public beta" color="warning" >}}This feature is currently in **public beta** and not yet available for production use.{{< /alert >}}
-
-![Service Details Page](/Images/central/env_and_gateway_mgmt/ServiceDetailsPage.png)
 
 You can view details of your API service and of current or previous versions of that service.
 
@@ -16,6 +14,8 @@ The service title and a searchable dropdown selector of which version you would 
 (The most recent version of your service is displayed when you first navigate to this page)
 
 Below there are three information sections and three tabs containing further details.
+
+![Service Details Page](/Images/central/env_and_gateway_mgmt/ServiceDetailsPage.png)
 
 ### Service Information
 
