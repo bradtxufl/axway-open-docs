@@ -55,13 +55,11 @@ For environments created using the API service model, the details page lists the
 
 ### Environment Information
 
-The environment information section contains the environment's icon, title, logical name, description and any tags or attributes that are specific to the environment asset. Attributes in this context are key and value pairs used for extending functionality and integrations with third party systems.
-
-The date and time that the environment asset was created is listed in this section.
+The environment information section contains general information and any tags or attributes that are specific to the environment asset. Attributes in this context are key and value pairs used for extending functionality and integrations with third party systems.
 
 ### Activity Report
 
-The values in the Activity Report section represent a holistic view of metrics within the environment.
+The values in the Activity Report section represent a holistic view of metrics within the environment.  Here you can view aggregated values for how your environment assets are distributed and how many subscriptions exist across all of those assets.
 
 * Services: The total count of services represented in the environment
 * Catalog Items: The total count of published catalog items
@@ -69,11 +67,13 @@ The values in the Activity Report section represent a holistic view of metrics w
 
 ### Services Table
 
-The table at the bottom of the page is a representation of all of the services that exist within the environment. This table is sortable by title, logical name, and when the service was created or last modified. You can search by title, name, or tag.
+This table is a representation of all of the services that exist within the environment. It is sortable by title, logical name, and when the service was created or last modified. You can search by title, name, or tag.
 
-Each result in the table contains an icon, description, the tags associated with the service, and the title of the service.
+There are indicators that display the number of versions for the service as well as the user who last modified the service and when.
 
-There are indicators that display the number of versions for the service as well as the user who last modified the service and when. There is an option to delete the service from this table.
+### Deleting a service
+
+You can delete a service by selecting the ellipsis in the service's row in the service table and then selecting delete.
 
 You can select the title of any service in the table to view additional details.
 
