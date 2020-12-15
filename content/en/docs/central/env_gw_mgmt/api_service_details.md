@@ -31,7 +31,7 @@ The values in the Activity Report section represent a holistic view of metrics w
 
 ### Version Information
 
-This secton contains the name of the version that is selected, the user who created the version and who last modified. You can also view the date and time that the service was created and last modified. It lists the type of specification represented by the service version (OAS2, OAS3, WSDL, Protobuf, etc.) as well.
+This section contains the name of the version that is selected, the user who created the version and who last modified it. You can also view the date and time that the service was created and last modified. It lists the type of specification represented by the service version (OAS2, OAS3, WSDL, Protobuf, etc.) as well.
 
 ### Specification Tab
 
