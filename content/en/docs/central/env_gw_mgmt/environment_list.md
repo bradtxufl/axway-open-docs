@@ -47,6 +47,8 @@ Each entry contains:
 
 You can select the title or logical name of the environment to view additional details.
 
+### View environment details
+
 For environments created using the API service model, the details page lists the title of the environment along with the status of any connected discovery and traceability agents, and includes three sections below with additional information
 
 ![Environment Details Page](/Images/central/env_and_gateway_mgmt/EnvironmentDetailsPage.png)
