@@ -10,7 +10,7 @@ description: All of your environments displayed in one place.
 
 The environments page contains all of your environments in a searchable and sortable list. An environment is a logical container for grouping APIs and additional assets. the Axway Cloud SAAS environment is represented here as well as environments managed with a service mesh or API service model. API service model results might be an AWS Gateway or API Manager environment connected with discovery and traceability agents, or they might be environments that are defined manually.
 
-You can add a new environment from this page by selecting the "+ Environment" button and customizing it with your environment's information.
+You can add a new environment from this page by selecting the **+ Environment** button and customizing it with your environment's information.
 
 ![Environment List Page](/Images/central/env_and_gateway_mgmt/EnvironmentListPage.png)
 
