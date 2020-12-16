@@ -45,7 +45,7 @@ You can select the title or logical name of the environment to view additional d
 
 ## View environment details
 
-For environments created using the API service model, the details page lists the title of the environment along with the status of any connected discovery and traceability agents, and sections Environment Information, Activity Report, and Services Table as follows:
+For environments created using the API service model, the details page lists the title of the environment along with the status of any connected discovery and traceability agents, and sections Environment Information, Activity Report, and Services Table.
 
 For information about other types of environments, see:
 
